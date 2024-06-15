@@ -1,0 +1,23 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.news-article {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+.news-article h2 a {
+    text-decoration: none;
+    color: #333;
+}
+
+.news-article h2 a:hover {
+    text-decoration: underline;
+}
